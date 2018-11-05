@@ -1,0 +1,157 @@
+# depslib dependency file v1.0
+1540861364 source:c:\users\ichwang\documents\keylogger\main.cpp
+	<iostream>
+	<Windows.h>
+	"Helper.h"
+	"Base64.h"
+	"IO.h"
+	"Timer.h"
+	"SendMail.h"
+	"KeybHook.h"
+
+1539927195 c:\users\ichwang\documents\keylogger\helper.h
+	<ctime>
+	<string>
+	<sstream>
+	<fstream>
+
+1540809466 c:\users\ichwang\documents\keylogger\keyconstants.h
+	<map>
+	<string>
+
+1539934045 c:\users\ichwang\documents\keylogger\base64.h
+	<vector>
+	<string>
+
+1540861364 c:\users\ichwang\documents\keylogger\io.h
+	<string>
+	<cstdlib>
+	<fstream>
+	<Windows.h>
+	"Helper.h"
+	"Base64.h"
+
+1540794668 c:\users\ichwang\documents\keylogger\timer.h
+	<thread>
+	<chrono>
+
+1540968515 c:\users\ichwang\documents\keylogger\sendmail.h
+	<fstream>
+	<vector>
+	<Windows.h>
+	"IO.h"
+	"Timer.h"
+	"helper.h"
+
+1540968754 c:\users\ichwang\documents\keylogger\keybhook.h
+	<iostream>
+	<fstream>
+	"windows.h"
+	"KeyConstants.h"
+	"Timer.h"
+	"SendMail.h"
+
+1540821214 source:c:\users\neoge\onedrive\documents\testinchanhwang1\keylogger\main.cpp
+	<iostream>
+	<windows.h>
+	"Helper.h"
+	"Base64.h"
+	"IO.h"
+	"Timer.h"
+	"SendMail.h"
+	"KeybHook.h"
+
+1540821214 c:\users\neoge\onedrive\documents\testinchanhwang1\keylogger\helper.h
+	<ctime>
+	<string>
+	<sstream>
+	<fstream>
+
+1540821214 c:\users\neoge\onedrive\documents\testinchanhwang1\keylogger\base64.h
+	<vector>
+	<string>
+
+1540821214 c:\users\neoge\onedrive\documents\testinchanhwang1\keylogger\io.h
+	<string>
+	<cstdlib>
+	<fstream>
+	<windows.h>
+	"Helper.h"
+	"Base64.h"
+
+1540821214 c:\users\neoge\onedrive\documents\testinchanhwang1\keylogger\timer.h
+	<thread>
+	<chrono>
+
+1540822316 c:\users\neoge\onedrive\documents\testinchanhwang1\keylogger\sendmail.h
+	<fstream>
+	<vector>
+	<windows.h>
+	"IO.h"
+	"Timer.h"
+	"helper.h"
+
+1540821214 c:\users\neoge\onedrive\documents\testinchanhwang1\keylogger\keybhook.h
+	<iostream>
+	<fstream>
+	"windows.h"
+	"KeyConstants.h"
+	"Timer.h"
+	"SendMail.h"
+
+1540821214 c:\users\neoge\onedrive\documents\testinchanhwang1\keylogger\keyconstants.h
+	<map>
+	<string>
+
+1541407638 source:d:\inchanfolder\malwares\keyloggerintdmgc_codeblock\main.cpp
+	<iostream>
+	<windows.h>
+	"Helper.h"
+	"Base64.h"
+	"IO.h"
+	"Timer.h"
+	"SendMail.h"
+	"KeybHook.h"
+
+1540969401 d:\inchanfolder\malwares\keyloggerintdmgc_codeblock\helper.h
+	<ctime>
+	<string>
+	<sstream>
+	<fstream>
+
+1540969400 d:\inchanfolder\malwares\keyloggerintdmgc_codeblock\base64.h
+	<vector>
+	<string>
+
+1540969401 d:\inchanfolder\malwares\keyloggerintdmgc_codeblock\io.h
+	<string>
+	<cstdlib>
+	<fstream>
+	<Windows.h>
+	"Helper.h"
+	"Base64.h"
+
+1540969401 d:\inchanfolder\malwares\keyloggerintdmgc_codeblock\timer.h
+	<thread>
+	<chrono>
+
+1541408426 d:\inchanfolder\malwares\keyloggerintdmgc_codeblock\sendmail.h
+	<fstream>
+	<vector>
+	<Windows.h>
+	"IO.h"
+	"Timer.h"
+	"helper.h"
+
+1540969401 d:\inchanfolder\malwares\keyloggerintdmgc_codeblock\keybhook.h
+	<iostream>
+	<fstream>
+	"windows.h"
+	"KeyConstants.h"
+	"Timer.h"
+	"SendMail.h"
+
+1540969401 d:\inchanfolder\malwares\keyloggerintdmgc_codeblock\keyconstants.h
+	<map>
+	<string>
+
